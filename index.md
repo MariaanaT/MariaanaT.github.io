@@ -1,5 +1,3 @@
-# MariaanaT's Projects 
-
 You can follow my projects through this page. See the current active projects below. 
 
 ### Renewable Energy
