@@ -1,8 +1,12 @@
 You can follow my projects through this page. See the current active projects below. 
 
+### Spreading of COVID-19 
+
+Study on the spreading of COVID-19 based on data from European Centre for Disease Prevention and Control updated daily. The results can be found from [this notebook](https://nbviewer.ipython.org/github/MariaanaT/COVID-19-Dashboard/blob/b74546d16490126ae36fd4499f25a735ca0b25ad/COVID-19%20study%20ECDC.ipynb). The source code can be found from [here](https://github.com/MariaanaT/COVID-19-Dashboard/blob/master/COVID-19%20study%20ECDC.ipynb). 
+
 ### Renewable Energy
 
-If you are interested in how renewable energy is used in different countries of the world, see the project results from [Notebook](https://nbviewer.jupyter.org/github/MariaanaT/RenewableElectricity/blob/931326f68d9bc04c85eff98d4407afe61019d684/RenewableElectricityOutput.ipynb). If you are just interested on the source code, go [here](https://github.com/MariaanaT/RenewableElectricity). 
+If you are interested in how renewable energy is used in different countries of the world, see the project results from [notebook](https://nbviewer.jupyter.org/github/MariaanaT/RenewableElectricity/blob/931326f68d9bc04c85eff98d4407afe61019d684/RenewableElectricityOutput.ipynb). If you are just interested on the source code, go [here](https://github.com/MariaanaT/RenewableElectricity). 
 
 ### Craters on Mars
 
