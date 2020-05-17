@@ -2,7 +2,7 @@ You can follow my projects through this page. See the current active projects be
 
 ### Spreading of COVID-19 
 
-Study on the spreading of COVID-19 based on data from European Centre for Disease Prevention and Control updated daily. The results can be found from [this notebook](https://nbviewer.jupyter.org/github/MariaanaT/COVID-19-Dashboard/blob/a56ec76d1c792966156e4e01fcd51bf0dd5e9084/COVID-19%20study%20ECDC.ipynb). The source code can be found from [here](https://github.com/MariaanaT/COVID-19-Dashboard/blob/master/COVID-19%20study%20ECDC.ipynb). 
+Study on the spreading of COVID-19 based on data from European Centre for Disease Prevention and Control updated daily. The results can be found from [this notebook](https://nbviewer.jupyter.org/github/MariaanaT/COVID-19-Dashboard/blob/6c2ee18c0ce699b25aa7528ad0fba848e2859202/COVID-19%20study%20ECDC.ipynb). The source code can be found from [here](https://github.com/MariaanaT/COVID-19-Dashboard/blob/master/COVID-19%20study%20ECDC.ipynb). There is a separate [notebook for animations](http://nbviewer.ipython.org/github/MariaanaT/COVID-19-Dashboard/blob/6c2ee18c0ce699b25aa7528ad0fba848e2859202/COVID-19%20study%20ECDC-Animations.ipynb) visualizing the spread of the COVID-19. The source code for animations is [here](https://github.com/MariaanaT/COVID-19-Dashboard/blob/master/COVID-19%20study%20ECDC-Animations.ipynb).
 
 ### Renewable Energy
 
