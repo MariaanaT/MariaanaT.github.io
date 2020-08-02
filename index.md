@@ -6,7 +6,7 @@ Study on the spreading of COVID-19 based on data from European Centre for Diseas
 
 ### The Effects of Nuclear Weapons Calculator 
 
-Calculations are based on the equations and plots in the book The Effects of Nuclear Weapons. PDF version of the book can be found from https://www.fourmilab.ch/etexts/www/effects/, and the digital version of the slide rule accompaning the book can be found from https://www.fourmilab.ch/bombcalc/. The aim of this project is to calculate all of the properties that are available in the slide rule, but currently, only some of these calculations are available. The source code can be found from [here](
+Calculations are based on the equations and plots in the book The Effects of Nuclear Weapons. PDF version of the book can be found from [https://www.fourmilab.ch/etexts/www/effects/](https://www.fourmilab.ch/etexts/www/effects/), and the digital version of the slide rule accompaning the book can be found from [https://www.fourmilab.ch/bombcalc/](https://www.fourmilab.ch/bombcalc/). The aim of this project is to calculate all of the properties that are available in the slide rule, but currently, only some of these calculations are available. The source code can be found from [here](
 https://github.com/MariaanaT/The-Effects-of-Nuclear-Weapons). 
 
 ### Renewable Energy
