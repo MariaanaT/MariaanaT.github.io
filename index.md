@@ -2,7 +2,7 @@ You can follow my projects through this page. See the current active projects be
 
 ### Spreading of COVID-19 
 
-Study on the spreading of COVID-19 based on data from European Centre for Disease Prevention and Control. The dataset is updated daily. The results can be found from [this notebook](https://nbviewer.ipython.org/github/MariaanaT/COVID-19-Dashboard/blob/266d2f4e11c23ece1e8db06f2f7a1da84822285c/COVID-19%20study%20ECDC.ipynb). The source code can be found from [here](https://github.com/MariaanaT/COVID-19-Dashboard/blob/master/COVID-19%20study%20ECDC.ipynb). There is [another notebook](https://nbviewer.ipython.org/github/MariaanaT/COVID-19-Dashboard/blob/629b96df4f9d4d91f1e5e331bba68619505ff9fc/COVID-19%20study%20ECDC-Animations.ipynb) visualizing the spread of the COVID-19 globally e.g. with animations. The source code for this notebook is [here](https://github.com/MariaanaT/COVID-19-Dashboard/blob/master/COVID-19%20study%20ECDC-Animations.ipynb).
+Study on the spreading of COVID-19 based on data from European Centre for Disease Prevention and Control. The dataset is updated daily. The results can be found from [this notebook](https://nbviewer.jupyter.org/github/MariaanaT/COVID-19-Dashboard/blob/67625b80776418a5d3b61bd2729a3b498e83dbbb/COVID-19%20study%20ECDC.ipynb). The source code can be found from [here](https://github.com/MariaanaT/COVID-19-Dashboard/blob/master/COVID-19%20study%20ECDC.ipynb). There is [another notebook](http://nbviewer.ipython.org/github/MariaanaT/COVID-19-Dashboard/blob/67625b80776418a5d3b61bd2729a3b498e83dbbb/COVID-19%20study%20ECDC-Animations.ipynb) visualizing the spread of the COVID-19 globally e.g. with animations. The source code for this notebook is [here](https://github.com/MariaanaT/COVID-19-Dashboard/blob/master/COVID-19%20study%20ECDC-Animations.ipynb). The plots have been updated 11th Oct 2020. 
 
 ### The Effects of Nuclear Weapons Calculator 
 
@@ -11,7 +11,7 @@ https://github.com/MariaanaT/The-Effects-of-Nuclear-Weapons).
 
 ### Craters on Mars
 
-Are the craters equally distributed on the surface of the Mars? And is the depth or diameter of the craters dependent on the location of the crater? Find the answer [here](https://github.com/MariaanaT/MarsCraters/blob/master/MarsCratersStudy.ipynb). 
+Are the craters equally distributed on the surface of the Mars? And is the depth or diameter of the craters dependent on the location of the crater? Find the answers [here](https://github.com/MariaanaT/MarsCraters/blob/master/MarsCratersStudy.ipynb). 
 
 ### Renewable Energy
 
