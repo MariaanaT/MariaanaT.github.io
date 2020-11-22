@@ -2,14 +2,11 @@ You can follow my projects through this page. See the current active projects be
 
 ### Spreading of COVID-19 
 
-Study on the spreading of COVID-19 based on data from European Centre for Disease Prevention and Control. The dataset is updated daily. 
+Study on the spreading of COVID-19 based on data from European Centre for Disease Prevention and Control. The dataset is updated daily. The plots are updated about one a week, previous update has been done 21st Nov 2020. 
 
 * The main results can be found from [this notebook](http://nbviewer.ipython.org/github/MariaanaT/COVID-19-Dashboard/blob/3bc732a05663ba04db941a6273707a3ad9c23c4c/COVID-19%20study%20ECDC.ipynb). The source code can be found from [here](https://github.com/MariaanaT/COVID-19-Dashboard/blob/master/COVID-19%20study%20ECDC.ipynb). 
-* There is [another notebook](http://nbviewer.ipython.org/github/MariaanaT/COVID-19-Dashboard/blob/3bc732a05663ba04db941a6273707a3ad9c23c4c/COVID-19%20study%20ECDC-Animations.ipynb) visualizing the spread of the COVID-19 globally using animations. The source code for this notebook is [here](https://github.com/MariaanaT/COVID-19-Dashboard/blob/master/COVID-19%20study%20ECDC-Animations.ipynb). 
-* There is [one notebook](http://nbviewer.ipython.org/github/MariaanaT/COVID-19-Dashboard/blob/3bc732a05663ba04db941a6273707a3ad9c23c4c/COVID-19%20study%20ECDC-Global.ipynb) to illustrate the cases and deaths globally,  comparing the spread between different continents. The source code can be found from [here](https://github.com/MariaanaT/COVID-19-Dashboard/blob/master/COVID-19%20study%20ECDC-Global.ipynb).
-* Finally, there is a [notebook](http://nbviewer.ipython.org/github/MariaanaT/COVID-19-Dashboard/blob/3bc732a05663ba04db941a6273707a3ad9c23c4c/COVID-19%20study%20ECDC-Global%20Timeseries.ipynb) presenting the historical development of the spread of the COVID-19 globally on a timeline. The source code for this study can be found from [here](https://github.com/MariaanaT/COVID-19-Dashboard/blob/master/COVID-19%20study%20ECDC-Global%20Timeseries.ipynb).
-
-The plots have been updated 21st Nov 2020. 
+* There is [another notebook](http://nbviewer.ipython.org/github/MariaanaT/COVID-19-Dashboard/blob/23d751cf8e35d5f5b4ba16d226f5684d154039d2/COVID-19%20study%20ECDC-Global%20Timeseries.ipynb) visualizing the spread of the COVID-19 globally using also animations. The source code for this notebook is [here](https://github.com/MariaanaT/COVID-19-Dashboard/blob/master/COVID-19%20study%20ECDC-Global%20Timeseries.ipynb). 
+* There is [one notebook](http://nbviewer.ipython.org/github/MariaanaT/COVID-19-Dashboard/blob/3bc732a05663ba04db941a6273707a3ad9c23c4c/COVID-19%20study%20ECDC-Global.ipynb) to illustrate the cases and deaths globally, especially comparing the spread between different continents. The source code can be found from [here](https://github.com/MariaanaT/COVID-19-Dashboard/blob/master/COVID-19%20study%20ECDC-Global.ipynb).
 
 ### The Effects of Nuclear Weapons Calculator 
 
