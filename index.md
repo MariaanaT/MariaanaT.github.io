@@ -2,7 +2,7 @@ You can follow my projects through this page. See the current active projects be
 
 ### Spreading of COVID-19 
 
-Study on the spreading of COVID-19 based on data from European Centre for Disease Prevention and Control. The dataset is updated daily. The plots are updated about one a week, previous update has been done 13th Dec 2020. 
+Study on the spreading of COVID-19 based on data from European Centre for Disease Prevention and Control. The dataset is updated weekly. The plots are updated twice a month or so, previous update has been done 30th Dec 2020. 
 
 * The main results can be found from [this notebook](http://nbviewer.ipython.org/github/MariaanaT/COVID-19-Dashboard/blob/ad478f9ae2e3405411f1cfd40340162fee89503e/COVID-19%20study%20ECDC.ipynb). Unfortunately, GitHub does not seem to support geographical plots. The source code can be found from [here](https://github.com/MariaanaT/COVID-19-Dashboard/blob/master/COVID-19%20study%20ECDC.ipynb). 
 * There is [another notebook](http://nbviewer.ipython.org/github/MariaanaT/COVID-19-Dashboard/blob/ad478f9ae2e3405411f1cfd40340162fee89503e/COVID-19%20study%20ECDC-Global%20Timeseries.ipynb) visualizing the spread of the COVID-19 globally using also animations. The source code for this notebook is [here](https://github.com/MariaanaT/COVID-19-Dashboard/blob/master/COVID-19%20study%20ECDC-Global%20Timeseries.ipynb). 
