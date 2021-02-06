@@ -14,7 +14,9 @@ This work aims to replicate work presented in the article [1]. The motivation fo
 
 This work consists of two notebooks. In the [first notebook](https://github.com/MariaanaT/Higgs-DNN/blob/master/Higgs_DNN.ipynb), deep neural network is trained. In the [second notebook](https://github.com/MariaanaT/Higgs-DNN/blob/master/Higgs_shallow_NN.ipynb), shallow neural network is trained for comparison. For both networks accuracy and AUC (Area Under the Curve) are calculated so that model behavior can be compared. The aim was to replicate original work as closely as possible, but some modifications were needed especially for the deep neural network to achieve similar AUC as in the original work. 
 
-[1] Baldi, P., P. Sadowski, and D. Whiteson. “*Searching for Exotic Particles in High-energy Physics with Deep Learning.*” Nature Communications 5 (July 2, 2014).
+### Nuclear Weapon Tests 
+
+The goal of this project is to present nuclear weapon test locations on a map. But first, an extensive data cleaning is needed, as the dataset is an excellent example of a messy data. The dataset is obtained from https://nuclearweaponarchive.org/Library/Catalog, and includes nuclear tests from 1945 to 1996.
 
 ### The Effects of Nuclear Weapons Calculator 
 
@@ -28,3 +30,7 @@ Are the craters equally distributed on the surface of the Mars? And is the depth
 ### Renewable Energy
 
 If you are interested in how renewable energy is used in different countries of the world, see the project results from [notebook](https://nbviewer.jupyter.org/github/MariaanaT/RenewableElectricity/blob/931326f68d9bc04c85eff98d4407afe61019d684/RenewableElectricityOutput.ipynb). If you are just interested on the source code, go [here](https://github.com/MariaanaT/RenewableElectricity). 
+
+References: 
+
+[1] Baldi, P., P. Sadowski, and D. Whiteson. “*Searching for Exotic Particles in High-energy Physics with Deep Learning.*” Nature Communications 5 (July 2, 2014).
