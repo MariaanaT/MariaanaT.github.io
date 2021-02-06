@@ -16,7 +16,7 @@ This work consists of two notebooks. In the [first notebook](https://github.com/
 
 ### Nuclear Weapon Tests 
 
-The goal of this project is to present nuclear weapon test locations on a map. But first, an extensive data cleaning is needed, as the dataset is an excellent example of a messy data. The dataset is obtained from https://nuclearweaponarchive.org/Library/Catalog, and includes nuclear tests from 1945 to 1996.
+The goal of this project is to present nuclear weapon test locations on a map. But first, an extensive data cleaning is needed, as the dataset is an excellent example of a messy data. The dataset is obtained from https://nuclearweaponarchive.org/Library/Catalog, and includes nuclear tests from 1945 to 1996. The project files can be found from [here](https://github.com/MariaanaT/NuclearWeaponTests). 
 
 ### The Effects of Nuclear Weapons Calculator 
 
