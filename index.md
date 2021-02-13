@@ -14,9 +14,11 @@ This work aims to replicate work presented in the article [1]. The motivation fo
 
 This work consists of two notebooks. In the [first notebook](https://github.com/MariaanaT/Higgs-DNN/blob/master/Higgs_DNN.ipynb), deep neural network is trained. In the [second notebook](https://github.com/MariaanaT/Higgs-DNN/blob/master/Higgs_shallow_NN.ipynb), shallow neural network is trained for comparison. For both networks accuracy and AUC (Area Under the Curve) are calculated so that model behavior can be compared. The aim was to replicate original work as closely as possible, but some modifications were needed especially for the deep neural network to achieve similar AUC as in the original work. 
 
-### Nuclear Weapon Tests 
+# Nuclear Weapon Tests
 
-The goal of this project is to present nuclear weapon test locations on a map. But first, an extensive data cleaning is needed, as the dataset is an excellent example of a messy data. The dataset is obtained from [https://nuclearweaponarchive.org/Library/Catalog](https://nuclearweaponarchive.org/Library/Catalog), and includes nuclear tests from 1945 to 1996. The project files can be found from [here](https://github.com/MariaanaT/NuclearWeaponTests). 
+The goal of this project is to present nuclear weapon test locations on a map together with basic information of the test. But first, an extensive data cleaning is needed for the dataset, as the dataset is an excellent example of a messy data. The dataset is obtained from  https://nuclearweaponarchive.org/Library/Catalog, and includes nuclear tests from 1945 to 1996. 
+
+Notebook [NuclearWeaponTests_Cleaning.ipynb](https://github.com/MariaanaT/NuclearWeaponTests/blob/main/NuclearWeaponTests_Cleaning.ipynb) concentraces on the data cleaning process. The plots are generated in [NuclearWeaponTests_Visualization.ipynb](https://github.com/MariaanaT/NuclearWeaponTests/blob/main/NuclearWeaponTests_Visualization.ipynb). 
 
 ### The Effects of Nuclear Weapons Calculator 
 
